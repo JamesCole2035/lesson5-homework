@@ -1,0 +1,22 @@
+{
+  "name": "lesson5-homework",
+  "version": "0.0.2",
+  "description": "js function package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesCole2035/lesson5-homework.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Mikhail Bochkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesCole2035/lesson5-homework/issues"
+  },
+  "homepage": "https://github.com/JamesCole2035/lesson5-homework#readme"
+}

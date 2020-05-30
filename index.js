@@ -1,4 +1,4 @@
-let number = 99;
+let number = 95;
 let sum = 0;
 function summaNaoborot(number) {
 	while (number > 0) { 

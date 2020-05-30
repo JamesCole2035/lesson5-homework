@@ -5,6 +5,6 @@ function summaNaoborot(number) {
 		sum+=number; 
 		number--; 
 	}
-	console.log("Успешно! Сумма всех чисел до заданного равна " + sum); 
-	return sum; 
+	return sum;	
+	console.log("Успешно! Сумма всех чисел до заданного равна " + sum);  
 }
